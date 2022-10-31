@@ -1,8 +1,8 @@
 # Stem-cell-image-clustering
 Using transfer learning for unsupervised clustering of mouse embryonic stem cells
-##Libraries used
+#Libraries used
 Numpy, Matplotlib, Scikit-Learn, Tensorflow
-##Models used
+#Models used
 ResNet with k means clustering
-##Metric used
+#Metric used
 Silhouette coefficient
